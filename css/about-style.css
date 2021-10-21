@@ -15,7 +15,7 @@ body {
 header {
     margin: 0;
     padding: 0;
-    background-image: url('/assets/about-1.jpg');
+    background-image: url(../assets/about-1.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -235,11 +235,11 @@ footer {
 }
 
 .fixed-image {
-    background-image: url('/assets/about-2.jpg');
+    background-image: url('../assets/about-2.jpg');
 }
 
 .fixed-image3 {
-    background-image: url('/assets/about-3.jpg');
+    background-image: url('../assets/about-3.jpg');
 }
 
 .fixed-image {
